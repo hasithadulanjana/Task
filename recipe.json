@@ -1,0 +1,14 @@
+{
+  "foodName" : "Food1",
+  "active" : true,
+  "recipeList" : [
+    {
+      "recipename" : "bread",
+      "serving" : 29,
+      "prepTime" : "Dan Jukes",
+      "ingridents" : [
+        {"Farine":"100g", "ing2":"val2"}
+      ]
+    }
+  ]
+}
