@@ -5,7 +5,7 @@
     {
       "recipename" : "bread",
       "serving" : 29,
-      "prepTime" : "Dan Jukes",
+      "prepTime" : "20 Min",
       "ingridents" : [
         {"Farine":"100g", "ing2":"val2"}
       ]
